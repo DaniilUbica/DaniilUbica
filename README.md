@@ -5,7 +5,7 @@
 <p align="center">
 <a href="https://github.com/DaniilUbica"> <img src="https://img.shields.io/github/followers/DaniilUbica?label=follow&logo=github&style=for-the-badge&labelColor=black"></a>
 <br> <a href="https://vk.com/daniil_ubica"><img src="https://img.shields.io/badge/VKontakte-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/self.fishkid"></a>
-<a href="https://t.me/daniil_ubica"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=ampheee&color=blue&labelColor=black"></a>
+<a href="https://t.me/daniil_ubica"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=daniil_ubica&color=blue&labelColor=black"></a>
 
 <h3 align="center">
 My technology stack:</h3>
