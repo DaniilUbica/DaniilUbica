@@ -5,8 +5,6 @@
 
 - 📄 Know about my experiences [https://github.com/DaniilUbica?tab=repositories](https://github.com/DaniilUbica?tab=repositories)
 
-<p align="center"> <img src = "https://www.codewars.com/users/Daniil Ubica/badges/large"> </p>
-
 <h3 align="center">
 My technology stack:</h3>
 <p align="center">
@@ -22,6 +20,8 @@ My technology stack:</h3>
 <img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
+
+<p align="center"> <img src = "https://www.codewars.com/users/Daniil Ubica/badges/large"> </p>
 
 <h2 align="center"> My github stats: </h2>
 
