@@ -1,7 +1,5 @@
-### Hi there 👋
-
-<!--
-**DaniilUbica/DaniilUbica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Daniil</a> 
+<h3 align="center">Back-end developer. 📚, MSTU "STANKIN" student a 🇷🇺</h3>
 
 Here are some ideas to get you started:
 
