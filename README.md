@@ -1,13 +1,13 @@
 <h1 align="center"> Hi 👋, I'm Daniil</h1>
-<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74949&width=435&lines=Back-end+developer;++and+MSTU+%22STANKIN%22+student" alt="Typing SVG" /></h3>
+<h3 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74949&center=true&vCenter=true&width=435&lines=Back-end+developer;++and+MSTU+%22STANKIN%22+student" alt="Typing SVG" /></h3>
 
 - 📫 How to reach me **acveloff@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/DaniilUbica?tab=repositories](https://github.com/DaniilUbica?tab=repositories)
 
-<h3
+<h3 align="center">
 My technology stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+href="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
