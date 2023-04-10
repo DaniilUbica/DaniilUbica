@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [https://github.com/DaniilUbica?tab=repositories](https://github.com/DaniilUbica?tab=repositories)
 
-<p align="center"> <img src = https://www.codewars.com/users/Daniil Ubica/badges/large> </p>
+<p align="center"> <img src = "https://www.codewars.com/users/Daniil Ubica/badges/large"> </p>
 
 <h3 align="center">
 My technology stack:</h3>
