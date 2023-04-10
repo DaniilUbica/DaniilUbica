@@ -1,9 +1,11 @@
 <h1 align="center"> Hi 👋, I'm Daniil</h1>
 <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74949&center=true&vCenter=true&width=435&lines=Back-end+developer;++and+MSTU+%22STANKIN%22+student" alt="Typing SVG" /></h2>
 
-- 📫 How to reach me **acveloff@gmail.com**
-
-- 📄 Know about my experiences [https://github.com/DaniilUbica?tab=repositories](https://github.com/DaniilUbica?tab=repositories)
+<h3 align="center"> My social media: </h3>
+<p align="center">
+<a href="https://github.com/DaniilUbica"> <img src="https://img.shields.io/github/followers/DaniilUbica?label=follow&logo=github&style=for-the-badge&labelColor=black"></a>
+<br> <a href="https://vk.com/daniil_ubica"><img src="https://img.shields.io/badge/VKontakte-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/self.fishkid"></a>
+<a href="https://t.me/daniil_ubica"> <img src="https://img.shields.io/static/v1?style=for-the-badge&logo=telegram&label=Telegram&message=ampheee&color=blue&labelColor=black"></a>
 
 <h3 align="center">
 My technology stack:</h3>
