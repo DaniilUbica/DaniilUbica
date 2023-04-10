@@ -20,7 +20,9 @@ My technology stack:</h3>
 <img src = "https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
 <img src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniilubica&show_icons=true&theme=gruvbox&title_color=d29393&text_color=b8b8b8&bg_color=262626&locale=en&layout=compact" alt="daniilubica" /></p>
+
+<h2 align="center"> My github stats: </h2>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniilubica&show_icons=true&theme=gruvbox&title_color=d29393&text_color=b8b8b8&bg_color=262626&locale=en&layout=compact%22%20alt=%22daniilubica%22" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniilubica&show_icons=true&theme=gruvbox&title_color=d29393&text_color=b8b8b8&bg_color=262626&locale=en" alt="daniilubica" /></p>
 
