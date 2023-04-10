@@ -22,7 +22,7 @@ My technology stack:</h3>
 </p>
 
 <h2 align="center"> My github stats: </h2>
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniilubica&show_icons=true&theme=gruvbox&title_color=d29393&text_color=b8b8b8&bg_color=262626&locale=en&layout=compact%22%20alt=%22daniilubica%22" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniilubica&show_icons=true&theme=gruvbox&title_color=d29393&text_color=b8b8b8&bg_color=262626&locale=en&layout=compact" alt="daniilubica" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniilubica&show_icons=true&theme=gruvbox&title_color=d29393&text_color=b8b8b8&bg_color=262626&locale=en" alt="daniilubica" /></p>
 
