@@ -1,10 +1,11 @@
-<h1 align="center">Hi 👋, I'm Daniil</h1>
-<h3 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Back-end+developer)](https://git.io/typing-svg) </h3>
+<h1 align="center"> Hi 👋, I'm Daniil</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74949&width=435&lines=Back-end+developer+and++MSTU+%22STANKIN%22+student" alt="Typing SVG" /></a>
 
 - 📫 How to reach me **acveloff@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/DaniilUbica?tab=repositories](https://github.com/DaniilUbica?tab=repositories)
 
+<h3
 My technology stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -15,7 +16,8 @@ My technology stack:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
+</h3>
+    
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniilubica&show_icons=true&theme=gruvbox&title_color=d29393&text_color=b8b8b8&bg_color=262626&locale=en&layout=compact" alt="daniilubica" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daniilubica&show_icons=true&theme=gruvbox&title_color=d29393&text_color=b8b8b8&bg_color=262626&locale=en" alt="daniilubica" /></p>
