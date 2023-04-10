@@ -1,5 +1,5 @@
 <h1 align="center"> Hi 👋, I'm Daniil</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74949&width=435&lines=Back-end+developer+and++MSTU+%22STANKIN%22+student" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F74949&width=435&lines=Back-end+developer;++and+MSTU+%22STANKIN%22+student" alt="Typing SVG" /></a>
 
 - 📫 How to reach me **acveloff@gmail.com**
 
