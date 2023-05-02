@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Daniil</h1>
+<h1 align="center"> Hi 👋, I'm Dan</h1>
 <h2 align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&duration=1500&color=F78282&background=000000C8&multiline=true&width=435&height=250&lines=%23include+%3Ciostream%3E;+;using+namespace+std;+;int+main()+%7B;cout+%3C%3C+%22Volkov+Daniil%5Cn%22+;cout+%3C%3C+%22Back-end+developer%5Cn%22+;cout+%3C%3C+%22MSTU+STANKIN+student%5Cn%22+;%7D" alt="Typing SVG" /></h2>
 
 <h3 align="center"> My social media: </h3>
