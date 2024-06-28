@@ -7,6 +7,8 @@
  
 - I'm currently working at [__TrueConf__](https://trueconf.ru/)
 
+- Here you can visit my [__web-site__](https://daniilubica.lol)
+
 ## My socials
 <a href="https://github.com/DaniilUbica"> <img src="https://img.shields.io/github/followers/DaniilUbica?label=follow&logo=github&style=for-the-badge&labelColor=black"></a>
 <a href="https://vk.com/daniil_ubica"><img src="https://img.shields.io/badge/VKontakte-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white&link=https://vk.com/self.fishkid"></a>
