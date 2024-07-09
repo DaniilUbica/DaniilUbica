@@ -1,4 +1,4 @@
-![github-header-image (4)](https://github.com/DaniilUbica/DaniilUbica/assets/102466617/197fa442-fcee-4cb6-a9c8-5484e9eab54b)
+![github-header-image](https://github.com/DaniilUbica/DaniilUbica/assets/102466617/fe0011e9-9509-40b8-ac0b-60d0adce6f71)
 <h1></h1>
 
 - I’m studying at __MSUT STANKIN__
