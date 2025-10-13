@@ -3,7 +3,7 @@
  
 - I’m currently learning __C++__ and __Rust__
  
-- I'm currently working at [__TrueConf__](https://trueconf.ru/)
+- I'm currently working at [__TrueConf__](https://trueconf.ru/) as a C++ Developer
 
 - Here you can visit my [__web-site__](https://daniilubica.lol)
 
