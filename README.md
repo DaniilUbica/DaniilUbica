@@ -1,7 +1,5 @@
 ![github-header-image](https://github.com/DaniilUbica/DaniilUbica/assets/102466617/fe0011e9-9509-40b8-ac0b-60d0adce6f71)
 <h1></h1>
-
-- I’m studying at __MSUT STANKIN__
  
 - I’m currently learning __C++__ and __Rust__
  
